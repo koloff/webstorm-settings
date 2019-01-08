@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="vsphere.d.ts" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/Desktop/vsphere-methdos/lib/vsphere.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Desktop/vsphere-methdos/lib/vsphere.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
