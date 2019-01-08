@@ -7,7 +7,7 @@
         </sourceFilesUrls>
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/Desktop/vsphere-methdos/lib/vsphere.d.ts" />
+        <root url="file://$USER_HOME$/Desktop/vsphere-methdos/definitions/vsphere.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
