@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="gradlew" type="Bash" />
+      <mapping ext="keystore" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
