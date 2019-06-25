@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="gradlew" type="Bash" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
