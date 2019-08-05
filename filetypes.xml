@@ -5,7 +5,9 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="a" type="PLAIN_TEXT" />
       <mapping ext="mobileprovision" type="PLAIN_TEXT" />
+      <removed_mapping ext="a" type="UNKNOWN" />
     </extensionMap>
   </component>
 </application>
