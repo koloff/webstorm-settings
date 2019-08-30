@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../h5-vsan-ui/src/app [h5-vsan-ui]'" />
-    <option name="defaultScopeName" value="Directory '.../h5-vsan-ui/src/app [h5-vsan-ui]'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../h5-vsan-ui/src/app [h5-vsan-ui]'" />
+    <option name="customScope" value="Project 'h5-modules'" />
+    <option name="defaultScopeName" value="Project 'h5-modules'" />
+    <option name="SEARCH_SCOPE" value="Project 'h5-modules'" />
   </component>
 </application>
