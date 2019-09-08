@@ -4,14 +4,13 @@
     <property name="created">2017-09-03T00:20:36</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.2.3.0.0</property>
-    <property name="modified">2018-10-30T18:48:46</property>
+    <property name="modified">2019-09-08T17:48:06</property>
     <property name="originalScheme">_@user_Material Theme - Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="BORDER_LINES_COLOR" value="" />
