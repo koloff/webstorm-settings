@@ -4,7 +4,7 @@
     <property name="created">2018-11-14T14:00:23</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.2.6.0.0</property>
-    <property name="modified">2020-02-06T15:44:52</property>
+    <property name="modified">2020-02-06T18:49:21</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -62,7 +62,6 @@
     <option name="SELECTED_INDENT_GUIDE" value="676767" />
     <option name="SELECTED_TEARLINE_COLOR" value="616161" />
     <option name="SELECTION_BACKGROUND" value="353535" />
-    <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="TEARLINE_COLOR" value="303030" />
     <option name="TOOLTIP" value="323232" />
