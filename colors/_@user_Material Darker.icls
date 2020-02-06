@@ -4,12 +4,12 @@
     <property name="created">2018-11-14T14:00:23</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.2.6.0.0</property>
-    <property name="modified">2018-11-14T14:01:46</property>
+    <property name="modified">2020-02-06T15:44:52</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
+  <option name="LINE_SPACING" value="1.0" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
@@ -1324,10 +1324,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
-    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
-    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA_KEYWORD">
       <value>
         <option name="FOREGROUND" value="c792ea" />
