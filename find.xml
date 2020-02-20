@@ -8,9 +8,9 @@
     <mask>*.xml</mask>
     <mask>*.scss</mask>
     <mask>*.css</mask>
-    <mask>*.html</mask>
     <mask>*.py</mask>
     <mask>*.java</mask>
     <mask>*.ts</mask>
+    <mask>*.html</mask>
   </component>
 </application>
