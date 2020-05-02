@@ -6,11 +6,11 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.xml</mask>
-    <mask>*.scss</mask>
     <mask>*.css</mask>
     <mask>*.py</mask>
     <mask>*.java</mask>
     <mask>*.ts</mask>
     <mask>*.html</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
