@@ -4,17 +4,17 @@
     <property name="created">2018-11-14T14:00:23</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.2.6.0.0</property>
-    <property name="modified">2020-03-30T16:17:49</property>
+    <property name="modified">2020-06-11T12:39:30</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Monospaced" />
-    <option name="EDITOR_FONT_SIZE" value="24" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
