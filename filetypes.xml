@@ -1,13 +1,14 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="gradlew" type="Bash" />
       <mapping ext="config" type="JavaScript" />
       <mapping pattern="sadad" type="PLAIN_TEXT" />
       <mapping pattern="BUCK" type="PLAIN_TEXT" />
+      <mapping pattern="SetSubscriptionStatusEnabledValue.py" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="mobileprovision" type="PLAIN_TEXT" />
+      <mapping pattern="gradlew" type="Bash" />
     </extensionMap>
   </component>
 </application>
