@@ -1,11 +1,11 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 3.9 (vsan) interpreter library">
+    <library name="Python 3.7 (vsan) interpreter library">
       <CLASSES>
-        <root url="file:///usr/local/Cellar/python@3.9/3.9.0_4/Frameworks/Python.framework/Versions/3.9/lib/python3.9" />
-        <root url="file:///usr/local/Cellar/python@3.9/3.9.0_4/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload" />
-        <root url="file:///Volumes/vsan/venv/lib/python3.9/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.1/python_stubs/-413124004" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.1/python_stubs/-1199943126" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
@@ -15,10 +15,10 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file:///usr/local/Cellar/python@3.9/3.9.0_4/Frameworks/Python.framework/Versions/3.9/lib/python3.9" />
-        <root url="file:///usr/local/Cellar/python@3.9/3.9.0_4/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload" />
-        <root url="file:///Volumes/vsan/venv/lib/python3.9/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.1/python_stubs/-413124004" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.1/python_stubs/-1199943126" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
@@ -26,11 +26,6 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
-    </library>
-    <library name="Python 3.9 interpreter library">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES />
     </library>
   </component>
 </application>
