@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="config" type="JavaScript" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="sadad" type="PLAIN_TEXT" />
       <mapping pattern="BUCK" type="PLAIN_TEXT" />
       <mapping pattern="SetSubscriptionStatusEnabledValue.py" type="PLAIN_TEXT" />
