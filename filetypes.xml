@@ -6,6 +6,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="sadad" type="PLAIN_TEXT" />
       <mapping pattern="BUCK" type="PLAIN_TEXT" />
+      <mapping pattern="logs" type="PLAIN_TEXT" />
       <mapping pattern="SetSubscriptionStatusEnabledValue.py" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
