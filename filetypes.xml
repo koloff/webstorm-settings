@@ -1,17 +1,20 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="config" type="JavaScript" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="sadad" type="PLAIN_TEXT" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <removed_mapping ext="config" type="LOMBOK_CONFIG" />
       <mapping pattern="BUCK" type="PLAIN_TEXT" />
+      <mapping pattern="sadad" type="PLAIN_TEXT" />
       <mapping pattern="logs" type="PLAIN_TEXT" />
       <mapping pattern="SetSubscriptionStatusEnabledValue.py" type="PLAIN_TEXT" />
+      <mapping ext="mobileprovision" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
-      <mapping ext="mobileprovision" type="PLAIN_TEXT" />
       <mapping ext="component" type="TypeScript" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
       <mapping pattern="gradlew" type="Bash" />
     </extensionMap>
   </component>
