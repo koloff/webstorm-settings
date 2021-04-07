@@ -348,7 +348,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="imp" value="import $values$ from '$module$';" description="import" toReformat="false" toShortenFQNames="true">
+  <template name="imp" value="import $values$ from &quot;$module$&quot;;" description="import" toReformat="false" toShortenFQNames="true">
     <variable name="module" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="values" expression="" defaultValue="&quot;values&quot;" alwaysStopAt="true" />
     <context>
